@@ -1,0 +1,10 @@
+android.clients.google.com        # Google Play can't operate.
+cdn.discordapp.com                # Images won't load in Discord.
+codeload.github.com               # Magisk Modules aren't able to update or install.
+content.discovercard.com          # Discover mobile app loses a lot of functionality.
+d21gpk1vhmjuf5.cloudfront.net     # Monoprice search doesn't respond.
+darkreader.github.io              # Unable to fetch new rules for dynamic styling and dark site lists.
+static.opensubtitles.org          # Unable to fetch subtitles.
+static.www.turnto.com             # Item variation switcher on Monoprice loads infinitely.
+vortex.data.microsoft.com         # Xbox Live achievements won't trigger.
+www.opensubtitles.org             # Unable to browse subtitles to fetch.

@@ -1,0 +1,33 @@
+#  ______                      _       _        _
+#  | ___ \                    | |     | |      ( )
+#  | |_/ /_      ___ __  _   _| | __ _| |_ _ __|/ ___
+#  |  __/\ \ /\ / / '_ \| | | | |/ _` | __| '__| / __|
+#  | |    \ V  V /| | | | |_| | | (_| | |_| |    \__ \
+#  \_|     \_/\_/ |_| |_|\__,_|_|\__,_|\__|_|    |___/
+#  ______                      _
+#  |  _  \                    (_)
+#  | | | |___  _ __ ___   __ _ _ _ __
+#  | | | / _ \| '_ ` _ \ / _` | | '_ \
+#  | |/ / (_) | | | | | | (_| | | | | |
+#  |___/ \___/|_| |_| |_|\__,_|_|_| |_|
+#   _    _ _     _ _       _ _     _
+#  | |  | | |   (_) |     | (_)   | |
+#  | |  | | |__  _| |_ ___| |_ ___| |_
+#  | |/\| | '_ \| | __/ _ \ | / __| __|
+#  \  /\  / | | | | ||  __/ | \__ \ |_
+#   \/  \/|_| |_|_|\__\___|_|_|___/\__|
+#
+# Pull updates from:
+# https://cdn.jsdelivr.net/gh/pwnulatr/domain-whitelist/domains
+#
+#
+android.clients.google.com
+cdn.discordapp.com
+codeload.github.com
+content.discovercard.com
+d21gpk1vhmjuf5.cloudfront.net
+darkreader.github.io
+static.opensubtitles.org
+static.www.turnto.com
+vortex.data.microsoft.com
+www.opensubtitles.org
