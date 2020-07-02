@@ -7,7 +7,9 @@ what you're looking for most likely, but if you want to understand the purpose o
 free to browse the reasons file.
 ## Installation
 **DO NOT** use the raw GitHub link to fetch and update the domains list. Instead use this
-[jsDelivr link](https://cdn.jsdelivr.net/gh/pwnulatr/domain-whitelist/domains).
+[jsDelivr link](https://cdn.jsdelivr.net/gh/pwnulatr/domain-whitelist/domains) or 
+[This GitHub Pages Link](https://pwnulatr.github.io/domain-whitelist/domains) 
+so Github won't be upsetti spaghetti.
 ## Note
 It is not recommended to use this list for element blockers, i.e. uBlock Origin, because some domains here do serve
 tracking content in addition to functional content. For example, the `d21gpk1vhmjuf5.cloudfront.net` domain serves both
