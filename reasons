@@ -1,5 +1,6 @@
 android.clients.google.com        # Google Play can't operate.
 cdn.discordapp.com                # Images won't load in Discord.
+clients4.google.com               # Google Maps doesn't load at all
 codeload.github.com               # Magisk Modules aren't able to update or install.
 content.discovercard.com          # Discover mobile app loses a lot of functionality.
 d21gpk1vhmjuf5.cloudfront.net     # Monoprice search doesn't respond.
