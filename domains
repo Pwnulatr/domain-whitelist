@@ -19,6 +19,8 @@
 #
 # Pull updates from:
 # https://cdn.jsdelivr.net/gh/pwnulatr/domain-whitelist/domains
+# or
+# https://pwnulatr.github.io/domain-whitelist/domains
 #
 #
 android.clients.google.com
@@ -34,6 +36,7 @@ codeload.github.com
 content.discovercard.com
 d21gpk1vhmjuf5.cloudfront.net
 darkreader.github.io
+fonts.gstatic.com
 go.microsoft.com
 images-1.gog-statics.com
 images-2.gog-statics.com
@@ -42,6 +45,7 @@ images-4.gog-statics.com
 images.gog.com
 m.stripe.network
 menu-static.gog-statics.com
+pay-users-pa.googleapis.com
 spclient.wg.spotify.com
 static-login.gog-statics.com
 static.opensubtitles.org
@@ -49,3 +53,4 @@ static.wikia.nocookie.net
 static.www.turnto.com
 vortex.data.microsoft.com
 www.opensubtitles.org
+www.youtube-nocookie.com

@@ -11,6 +11,7 @@ codeload.github.com               # Magisk Modules aren't able to update or inst
 content.discovercard.com          # Discover mobile app loses a lot of functionality.
 d21gpk1vhmjuf5.cloudfront.net     # Monoprice search doesn't respond.
 darkreader.github.io              # Unable to fetch new rules for dynamic styling and dark site lists.
+fonts.gstatic.com                 # Breaks a lot of site icons dependant on Material icons
 go.microsoft.com                  # Shorthand redirects on Microsoft don't work
 images-1.gog-statics.com          # Various images fail to load on GOG
 images-2.gog-statics.com          # Various images fail to load on GOG
@@ -19,6 +20,7 @@ images-4.gog-statics.com          # Various images fail to load on GOG
 images.gog.com                    # Images on GOG won't load
 m.stripe.network                  # Some payment systems won't work on websites
 menu-static.gog-statics.com       # Breaks some GOG functionality
+pay-users-pa.googleapis.com       # Breaks Google Pay
 spclient.wg.spotify.com           # Spotify songs won't download to local storage.
 static-login.gog-statics.com      # Unable to log into GOG
 static.opensubtitles.org          # Unable to fetch subtitles.
@@ -26,3 +28,4 @@ static.wikia.nocookie.net         # Images on any wiki.fandom sites fail to load
 static.www.turnto.com             # Item variation switcher on Monoprice loads infinitely.
 vortex.data.microsoft.com         # Xbox Live achievements won't trigger.
 www.opensubtitles.org             # Unable to browse subtitles to fetch.
+www.youtube-nocookie.com          # Breaks several "Watch together" sites like W2G and OpenTogetherTube
