@@ -11,6 +11,7 @@ codeload.github.com               # Magisk Modules aren't able to update or inst
 content.discovercard.com          # Discover mobile app loses a lot of functionality.
 d21gpk1vhmjuf5.cloudfront.net     # Monoprice search doesn't respond.
 darkreader.github.io              # Unable to fetch new rules for dynamic styling and dark site lists.
+fonts.googleapis.com              # Breaks a lot of site icons dependant on Material icons
 fonts.gstatic.com                 # Breaks a lot of site icons dependant on Material icons
 go.microsoft.com                  # Shorthand redirects on Microsoft don't work
 images-1.gog-statics.com          # Various images fail to load on GOG
